@@ -1,4 +1,4 @@
-// fred/fred.proto
+// protorepo/fred/fred.proto
 
 syntax = "proto3";
 
